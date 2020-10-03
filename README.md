@@ -1,3 +1,6 @@
+# WE NEED CONTRIBUTORS!
+At #hacktoberfest, we need open source contributors to participate in this project. Just go to our [Issues Board](https://github.com/vzrenggamani/aksarajawa-hanacaraka/issues) to start making contributions.
+
 ### Context
 
 Kumpulan tulisan tangan hanacaraka yang dibuat secara digital oleh berbagai manusia yang bersliweran di Internet. Tulisan tangan dibuat secara digital dengan memanfaatkan sebuah papan digital yang dikirimkan melalui kuesioner online. Tidak hanya itu juga, ada beberapa yang dibuat secara manual dan dipindai secara digital.
@@ -14,7 +17,7 @@ Kami ucapkan terimakasih kepada seluruh partisipan dalam proyek ini! Love you al
 
 Kami ucapkan terima kasih sebesar-besarnya kepada:
 
-1. Aditya Bayu Perdana ( @by.abay ) sebagai kontributor pertama dalam manual handwritting.
+1. Aditya Bayu Perdana ( [@by.abay](https://instagram.com/by.abay) ) sebagai kontributor pertama dalam manual handwritting.
 2. Warga SMA Negeri 1 Wonoayu | Mereka yang banyak membantu kami dalam mengumpulkan data
 3. Sakura Fukoka Studio Data Branch | Hey, Kalian yang bantu benerin semuanya kan ? Iya kan heheh
 4. dan kalian! Tanpa kalian semua, dataset ini tidak akan pernah terwujud!
